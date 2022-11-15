@@ -1,2 +1,3 @@
 # Practica2JoaquinAntequera
-Segunda Práctica de Desarrollo de Aplicaciones Multiplataforma
+Segunda Práctica de Desarrollo de Interfaces
+
