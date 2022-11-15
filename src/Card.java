@@ -46,6 +46,10 @@ public class Card extends JFrame {
         g.drawImage(imagen,30,520,this);
     }
 
+    public void initAAA(){
+
+    }
+
     public static void main(String[] args){
         new Card();
     }
