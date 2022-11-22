@@ -42,8 +42,8 @@ public class Card extends JFrame {
 
         Graphics2D g2d = (Graphics2D) g;
         Toolkit t = Toolkit.getDefaultToolkit();
-        Image imagen = t.getImage("C:\\dam\\Interfaces\\Práctica1JoaquínAntequera\\joker.png");
-        g.drawImage(imagen,30,520,this);
+        Image imagen = t.getImage("joker.png");
+        g.drawImage(imagen,30,515,this);
     }
 
     public void initAAA(){
